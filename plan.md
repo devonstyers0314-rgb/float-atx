@@ -12,3 +12,6 @@ Using the Risk Strategy tool from PMUPM Chapter 4, here are the key risks for th
 
 >| 2 | Legal reviews takes longer than expected | 3 | 4 | 12 | Transfer – Engage legal advisor early on, give them a two week window with a firm deadline |
 
+>| 3 | Website looks unprofessional on mobile | 4 | 3 | 12 | Mitigate risk – Test on multiple devices throughout developing, not just at the end |
+
+>
