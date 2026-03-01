@@ -16,3 +16,5 @@ Using the Risk Strategy tool from PMUPM Chapter 4, here are the key risks for th
 
 >**| 4 |** GitHub Pages deployment issues | 2 | 2 | 4 | Accept – Low risk, GitHub Pages is reliable|
 
+>**| 5 |** Stakeholder requests major content changes late | 4 | 2 | 8 | Mitigate – Get content approval sign-off before development begins |
+
