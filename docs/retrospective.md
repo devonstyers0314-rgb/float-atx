@@ -10,4 +10,10 @@
 
 >Not much, for this project I am the main stakeholder so decisions were fairly easy to make.
 
+### What Would I Do Differently?
+>I porbably should commit to GitHub more frequently throughout development, if something breaks late in the project, a clean version history is very valuable.
+
+### Closing Reflection
+
+>The project delivered what it set out to do, a clean professional two-page website that gives Float ATX an online presence before the summer season. The scope was fulfilled, lessons were documented, and the site is live!
 
